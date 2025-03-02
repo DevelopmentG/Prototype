@@ -1,0 +1,14 @@
+/home/carl/prototype/bin/Debug/net9.0/prototype
+/home/carl/prototype/bin/Debug/net9.0/prototype.deps.json
+/home/carl/prototype/bin/Debug/net9.0/prototype.runtimeconfig.json
+/home/carl/prototype/bin/Debug/net9.0/prototype.dll
+/home/carl/prototype/bin/Debug/net9.0/prototype.pdb
+/home/carl/prototype/obj/Debug/net9.0/prototype.GeneratedMSBuildEditorConfig.editorconfig
+/home/carl/prototype/obj/Debug/net9.0/prototype.AssemblyInfoInputs.cache
+/home/carl/prototype/obj/Debug/net9.0/prototype.AssemblyInfo.cs
+/home/carl/prototype/obj/Debug/net9.0/prototype.csproj.CoreCompileInputs.cache
+/home/carl/prototype/obj/Debug/net9.0/prototype.dll
+/home/carl/prototype/obj/Debug/net9.0/refint/prototype.dll
+/home/carl/prototype/obj/Debug/net9.0/prototype.pdb
+/home/carl/prototype/obj/Debug/net9.0/prototype.genruntimeconfig.cache
+/home/carl/prototype/obj/Debug/net9.0/ref/prototype.dll
